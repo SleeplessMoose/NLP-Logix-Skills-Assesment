@@ -17,7 +17,7 @@
 
 	Challenge-1:
 	
-	This challenge requires this [dataset] (https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-citywide-by-race-ethnicity) in csv format.
+	This challenge requires this [dataset] https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-citywide-by-race-ethnicity in csv format.
 	Dataset courtesy of: [catalog.data.gov] (https://catalog.data.gov/dataset)
 	Additionally pandas is a required import for this challenge.
 	
