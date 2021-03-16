@@ -17,13 +17,13 @@
 
 	Challenge-1:
 	
-	This challenge requires this [dataset]: <https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-citywide-by-race-ethnicity> in csv format.
-	Dataset courtesy of: [catalog.data.gov]: (https://catalog.data.gov/dataset)
+	This challenge requires this [dataset]("https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-citywide-by-race-ethnicity) in csv format.
+	Dataset courtesy of: [catalog.data.gov]("https://catalog.data.gov/dataset")
 	Additionally pandas is a required import for this challenge.
 	
 	Challenge-2:
 	
-	This challenge requires the iris dataset which can be found [here]: (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data).
+	This challenge requires the iris dataset which can be found [here]("https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data").
 	sklearn and pandas are both required imports for this challenge.
 
 	Challenge-5:
