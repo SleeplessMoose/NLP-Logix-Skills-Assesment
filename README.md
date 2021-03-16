@@ -3,7 +3,7 @@
 	This project was written in Python 2.7.12 using pandas, sklearn, requests, time, and setuptools 5.4.1.
 	
 	The following steps should be followed to properly install the project:
-	1. Once the files are downloaded from GitHub, navigate to the NLP folder and ensure that the dependencies are all present in the root NLP folder.
+	1. Once the files are downloaded from GitHub, navigate to the first NLP folder (root NLP) and ensure that the dependencies are all present in the root NLP folder.
 	2. In the console, run the command: "python setup.py develop", which will build the project and allow for the entry points to be used.
 	3. To test the individual challenges, simply use the challenge name as a command (challenge-1, challenge-2, or challenge-5) to execute the desired challenge.
 	
