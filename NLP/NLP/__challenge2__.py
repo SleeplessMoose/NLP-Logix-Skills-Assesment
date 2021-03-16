@@ -17,7 +17,7 @@ def challenge2():
 
     prediction = forest_classifier.predict(input_test)
 
-    file = open('RandomForestClassifier_Results.txt', 'w')
+    file = open('metrics.txt', 'w')
 
     file.write("Accuracy: ")
     file.write(str(metrics.accuracy_score(type_test, prediction)))
